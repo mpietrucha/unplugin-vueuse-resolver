@@ -1,0 +1,28 @@
+{
+  "name": "unplugin-vueuse-resolver",
+  "version": "1.0.0",
+  "description": "Unplugin vueuse resolver",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mpietrucha/unplugin-vueuse-resolver.git"
+  },
+  "keywords": [
+    "unplugin",
+    "vueuse"
+  ],
+  "author": "Michał Pietrucha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mpietrucha/unplugin-vueuse-resolver/issues"
+  },
+  "homepage": "https://github.com/mpietrucha/unplugin-vueuse-resolver#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "local-pkg": "^0.4.3",
+    "lodash": "^4.17.21"
+  }
+}
